@@ -1,3 +1,4 @@
+#string function practice
 s1="hello"
 s2="world"
 s3="""This

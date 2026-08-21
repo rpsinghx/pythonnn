@@ -11,7 +11,7 @@ print(y[4])
 for a in y:
     print(a)
 
-#range data type in python :
+#range data type in python:
 a=range(5)
 print(a)
 for x in a:
