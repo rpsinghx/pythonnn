@@ -1,3 +1,4 @@
+#complex number practice fundamentals
 a = 3 +5j 
 b = 2-5.5j
 c = 3+ 10.5j

@@ -1,4 +1,4 @@
-#string function practice
+#string function practice and fundamentals
 s1="hello"
 s2="world"
 s3="""This

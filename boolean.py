@@ -1,3 +1,4 @@
+#boolean fundamental program
 a=True
 b=False
 print(a)

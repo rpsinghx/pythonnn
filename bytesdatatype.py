@@ -1,4 +1,4 @@
-#printing bytes data type with indexing
+#printing bytes data type with indexing and fundamentals
 x = [10,20,30,40,50]
 y = bytes(x)
 print(type(y))
