@@ -25,3 +25,4 @@ a=eval(argv[1])
 b=eval(argv[2])
 c=a+b
 print(c)
+print("the length of values:", len(argv))
