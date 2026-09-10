@@ -69,4 +69,3 @@ b = 30
 print( a is b )
 print(id(a))
 print(id(b))
-
