@@ -1,0 +1,6 @@
+S=str(input("enter your string:"))
+print("First 3:", S[0:3])
+print("Last 3:" , S[-3::])
+print("Index 2 to 7:" , S[2:8])
+print("Every 2nd Character:" , S[::2])
+print("Rversed" , S[::-1])
